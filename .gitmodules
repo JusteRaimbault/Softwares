@@ -1,0 +1,18 @@
+[submodule "DynaML"]
+	path = DynaML
+	url = https://github.com/transcendent-ai-labs/DynaML.git
+[submodule "NetLogo/NetLogo"]
+	path = NetLogo/NetLogo
+	url = https://github.com/NetLogo/NetLogo.git
+[submodule "NetLogo/NW-Extension"]
+	path = NetLogo/NW-Extension
+	url = git@github.com:JusteRaimbault/NW-Extension.git
+[submodule "ScalaGraph/scala-graph"]
+	path = ScalaGraph/scala-graph
+	url = https://github.com/scala-graph/scala-graph.git
+[submodule "NetLogo/utils"]
+	path = NetLogo/utils
+	url = git@github.com:JusteRaimbault/utils.git
+[submodule "NetLogo/extensions/nl-spatialmorphology"]
+	path = NetLogo/extensions/nl-spatialmorphology
+	url = git@github.com:JusteRaimbault/nl-spatialmorphology.git
