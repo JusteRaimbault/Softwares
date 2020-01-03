@@ -49,3 +49,6 @@
 [submodule "NetLogo/NetLogo-Extension-Plugin"]
 	path = NetLogo/NetLogo-Extension-Plugin
 	url = https://github.com/NetLogo/NetLogo-Extension-Plugin.git
+[submodule "UDocker/udocker"]
+	path = UDocker/udocker
+	url = https://github.com/indigo-dc/udocker.git
