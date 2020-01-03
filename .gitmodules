@@ -16,3 +16,36 @@
 [submodule "NetLogo/extensions/nl-spatialmorphology"]
 	path = NetLogo/extensions/nl-spatialmorphology
 	url = git@github.com:JusteRaimbault/nl-spatialmorphology.git
+[submodule "NetLogo/Matrix-Extension"]
+	path = NetLogo/Matrix-Extension
+	url = git@github.com:JusteRaimbault/Matrix-Extension.git
+[submodule "fractalopolis"]
+	path = fractalopolis
+	url = git://git.renater.fr/fractalopolis.git
+[submodule "R/GWmodel"]
+	path = R/GWmodel
+	url = https://github.com/cran/GWmodel.git
+[submodule "OpenMole/myopenmoleplugin"]
+	path = OpenMole/myopenmoleplugin
+	url = https://github.com/openmole/myopenmoleplugin.git
+[submodule "scala/graph_gen_utils"]
+	path = scala/graph_gen_utils
+	url = https://github.com/alexaverbuch/graph_gen_utils.git
+[submodule "scala/histogrammar-scala"]
+	path = scala/histogrammar-scala
+	url = git@github.com:JusteRaimbault/histogrammar-scala.git
+[submodule "scala/osm-common"]
+	path = scala/osm-common
+	url = https://github.com/kodapan/osm-common.git
+[submodule "scala/scala-graph"]
+	path = scala/scala-graph
+	url = git@github.com:JusteRaimbault/scala-graph.git
+[submodule "NetLogo/GIS-Extension"]
+	path = NetLogo/GIS-Extension
+	url = git@github.com:JusteRaimbault/GIS-Extension.git
+[submodule "NetLogo/K-Means-Extension"]
+	path = NetLogo/K-Means-Extension
+	url = git@github.com:JusteRaimbault/K-Means-Extension.git
+[submodule "NetLogo/NetLogo-Extension-Plugin"]
+	path = NetLogo/NetLogo-Extension-Plugin
+	url = https://github.com/NetLogo/NetLogo-Extension-Plugin.git
