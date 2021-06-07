@@ -54,4 +54,4 @@
 	url = https://github.com/indigo-dc/udocker.git
 [submodule "OSM/ogr2poly"]
 	path = OSM/ogr2poly
-	url = https://github.com/smellman/ogr2poly.git
+	url = git@github.com:JusteRaimbault/ogr2poly.git
