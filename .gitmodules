@@ -52,3 +52,6 @@
 [submodule "UDocker/udocker"]
 	path = UDocker/udocker
 	url = https://github.com/indigo-dc/udocker.git
+[submodule "OSM/ogr2poly"]
+	path = OSM/ogr2poly
+	url = https://github.com/smellman/ogr2poly.git
